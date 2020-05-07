@@ -1,3 +1,7 @@
 this is a file a.txt
 
+new new new news
+
+learning git
+
 here will be many many text
